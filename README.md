@@ -75,5 +75,5 @@ Upcoming projects will cover:
 
 I'm always interested in discussing software architecture, distributed systems, DevOps, cloud engineering, AI, and engineering leadership.
 
-**LinkedIn:** Coming soon  
-**Portfolio:** Coming soon
+**LinkedIn:** www.linkedin.com/in/ibrahim-baig-05b25016 
+**Portfolio:** https://ibrahimbaig-portfolio.lovable.app/
